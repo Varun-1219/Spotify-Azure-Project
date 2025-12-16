@@ -1,0 +1,9 @@
+{
+	"name": "df-project-varun",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "896c238e-fb4c-4535-a4d0-02f83ce0f52d",
+		"tenantId": "d4f4dc4d-c93f-4f45-8625-7f2943c43663"
+	}
+}
